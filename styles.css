@@ -12,6 +12,9 @@ color: hsl(300, 43%, 22%);
 font-weight: 700;
 margin: 10% auto 5%;
 }
+.h3{
+  font-weight: 700;
+}
 .para{
   width: 80%;
   color: hsl(303, 10%, 53%);
@@ -106,7 +109,7 @@ color: hsl(300, 24%, 96%);
   .star1{
     margin-left: 5%;
   }
-  h3{
+  .h3{
     margin-left: 5%;
   }
   .rating1{
