@@ -70,7 +70,7 @@ color: hsl(300, 24%, 96%);
   body{
     background-image: url("images/bg-pattern-top-desktop.svg"),url("images/bg-pattern-bottom-desktop.svg");
     background-repeat: no-repeat,no-repeat;
-    background-position: -10% 0,120% 100%;
+    background-position: -10% 0,110% -220%;
   }
   .top{
     display: flex;
@@ -127,7 +127,7 @@ color: hsl(300, 24%, 96%);
 .rev{
   display: flex;
   width: 90%;
-  margin: auto auto 5%;
+  margin: auto;
 }
 .reviews{
   margin: 0 3%;
